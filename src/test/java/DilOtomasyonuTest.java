@@ -47,7 +47,7 @@ public class DilOtomasyonuTest {
             } else if (!baslikMetni.contains("NEWS") && dil.equals("English")) {
                 System.out.println(dil + " diline başarılı bir şekilde geçildi.");
             } else {
-                System.out.println(dil + " diline geçiş sağlanamadı veya başlık yanlış gösterildi.");
+                System.out.println(dil + " diline geçiş sağlanamadı veya başlık yanlış gösterildi");
             }
 
 
