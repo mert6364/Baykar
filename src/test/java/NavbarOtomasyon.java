@@ -54,7 +54,7 @@ public class NavbarOtomasyon {
                     
                     WebElement popupCloseButton = wait.until(ExpectedConditions.elementToBeClickable(By.className("close")));
                     popupCloseButton.click();
-                    System.out.println("Popup başarıyla kapatıldı.");
+                    System.out.println("Popup başarıyla kapatıldı");
                 }
             } catch (Exception e) {
                 
